@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Mhaoxyz\\Model\\Bank\\": "src/"
+            "Mhaoxyz\\Model\\": "src/"
         }
     },
     "require": {
