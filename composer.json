@@ -1,0 +1,21 @@
+{
+    "name": "mhaoxyz/laravel-model-bank",
+    "type": "library",
+    "authors": [
+        {
+            "name": "menghao",
+            "email": "mhaoxyz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mhaoxyz\\Model\\Bank\\": "src/"
+        }
+    },
+    "require": {
+
+    },
+    "require-dev": {
+        "mhaoxyz/laravel-illuminate": "^5.4"
+    }
+}
