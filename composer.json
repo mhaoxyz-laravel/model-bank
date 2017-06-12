@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Mhaoxyz\\Model\\": "src/"
+            "Mhaoxyz\\Laravel\\Model\\": "src/"
         }
     },
     "require": {
